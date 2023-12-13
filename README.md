@@ -4,7 +4,7 @@ To run this application on your local machine, please follow these steps:
 
 * Clone this repository:
 ```
-https://github.com/rajeevkrS/Hospital-API
+https://github.com/rahulsingh110/Hospital_api
 ```
 
 * Install the required dependencies using the following command:
